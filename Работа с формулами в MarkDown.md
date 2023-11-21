@@ -19,3 +19,5 @@ tags: #markdown #math
 - [[Матрицы в формулах]] - `\left[\begin{matrix}x_1\\x_2\\x_3\end{matrix}\right]`
 - [[Корень в формулах]] - `\sqrt`
 - [[Значок суммы в формулах]] - `\sum_{i=1}^{n}`
+- [[Случаи за фигурной скобкой в формулах]] - `\begin{cases} x^2 & x \ge 0 \\ x & x < 0 \end{cases}`
+- 
