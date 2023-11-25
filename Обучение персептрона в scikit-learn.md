@@ -2,3 +2,4 @@ parent: [[Обзор классификаторов на основе ML с ис
 
 tags: #ml #mlbookclub #reading #scikitlearn 
 
+Обучение 
