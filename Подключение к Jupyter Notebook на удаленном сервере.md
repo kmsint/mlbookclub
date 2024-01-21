@@ -1,3 +1,5 @@
+parent: [[Работа в jupyter notebook]]
+
 tags: #jupiter #remote #ssh #ml 
 
 ### Постановка задачи
